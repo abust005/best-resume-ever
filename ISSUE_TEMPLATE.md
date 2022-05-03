@@ -9,7 +9,7 @@
 -->
 
 ## Issue
-<!-- DESCRIBE WHY YOU OPEN THIS ISSUE -->
+<!-- DESCRIBE WHY YOU OPENED THIS ISSUE -->
 
 ## Info
 - Operating System: <!-- LINUX / OSX / WINDOWS -->
